@@ -1,0 +1,7 @@
+aiohttp
+networkx
+pyvis
+jsonpickle
+jinja2
+ipython
+pillow
